@@ -16,7 +16,6 @@ public class CalculatorGUI {
             frame.setSize(400, 400);
             frame.getContentPane().setBackground(new Color(90, 0, 90));
             frame.add(view);
-
             frame.setVisible(true);
         });
     }
